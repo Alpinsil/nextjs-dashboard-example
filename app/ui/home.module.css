@@ -1,0 +1,6 @@
+.shape {
+  border-bottom: 30px;
+  border-left: 20px;
+  border-right: 20px;
+  @apply h-0 w-0 border-x-transparent border-solid
+}
