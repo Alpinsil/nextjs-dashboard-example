@@ -22,7 +22,6 @@ const links = [
     icon: DocumentDuplicateIcon,
   },
   { name: 'Customers', href: '/dashboard/customers', icon: UserGroupIcon },
-  { name: 'Cuba', href: '/dashboard/customers', icon: ArrowDownRightIcon },
 ];
 
 export default function NavLinks() {

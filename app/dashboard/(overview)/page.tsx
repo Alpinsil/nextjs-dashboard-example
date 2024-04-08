@@ -8,13 +8,12 @@ import {
   CardSkeleton,
 } from '@/app/ui/skeletons';
 
+
 import { lusitana } from '@/app/ui/fonts';
 
 export default async function Page() {
   // const revenue = await fetchRevenue();
   // const latestInvoices = await fetchLatestInvoices();
-
-
   return (
     <main>
       <h1 className={`${lusitana.className} mb-4 text-xl md:text-2xl`}>
